@@ -1,0 +1,11 @@
+.App {
+  font-family: "Public Sans", sans-serif;
+  font-size: 0.875rem;
+  line-height: 1.4375em;
+}
+.active {
+  border-bottom: "2px solid salmon";
+}
+.pending {
+  border-bottom: "2px solid white";
+}
